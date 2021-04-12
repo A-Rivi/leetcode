@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class BinaryTreePostorderTraversal{
+class BinaryTreePostorderTraversal{
   public static void main(String[] args) {
      Solution solution = new BinaryTreePostorderTraversal().new Solution();
 

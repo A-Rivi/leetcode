@@ -58,7 +58,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
-public class BinaryTreeInorderTraversal{
+class BinaryTreeInorderTraversal{
   public static void main(String[] args) {
      Solution solution = new BinaryTreeInorderTraversal().new Solution();
      

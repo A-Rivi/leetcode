@@ -32,7 +32,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class BinaryTreeLevelOrderTraversal{
+class BinaryTreeLevelOrderTraversal{
   public static void main(String[] args) {
      Solution solution = new BinaryTreeLevelOrderTraversal().new Solution();
      
