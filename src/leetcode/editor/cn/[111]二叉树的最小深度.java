@@ -36,7 +36,7 @@ package leetcode.editor.cn;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class MinimumDepthOfBinaryTree{
+class MinimumDepthOfBinaryTree{
   public static void main(String[] args) {
      Solution solution = new MinimumDepthOfBinaryTree().new Solution();
      
