@@ -3,6 +3,38 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/[416]分割等和子集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/[416]分割等和子集.java" />
+              <option name="questionId" value="416" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/[518]零钱兑换 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/[518]零钱兑换 II.java" />
+              <option name="questionId" value="518" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/[53]最大子序和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/[53]最大子序和.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/leetcode/editor/cn/[518]零钱兑换 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../ljf-practice/leetcode/src/leetcode/editor/cn/leetcode/editor/cn/[518]零钱兑换 II.java" />
+              <option name="questionId" value="518" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[101]对称二叉树.java">
           <value>
             <LeetcodeEditor>
@@ -27,11 +59,43 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[107]二叉树的层序遍历 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[107]二叉树的层序遍历 II.java" />
+              <option name="questionId" value="107" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[111]二叉树的最小深度.java">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[111]二叉树的最小深度.java" />
               <option name="questionId" value="111" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[1143]最长公共子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[1143]最长公共子序列.java" />
+              <option name="questionId" value="1250" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[132]分割回文串 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[132]分割回文串 II.java" />
+              <option name="questionId" value="132" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[140]单词拆分 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[140]单词拆分 II.java" />
+              <option name="questionId" value="140" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -51,6 +115,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[200]岛屿数量.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[200]岛屿数量.java" />
+              <option name="questionId" value="200" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[237]删除链表中的节点.java">
           <value>
             <LeetcodeEditor>
@@ -64,6 +136,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[264]丑数 II.java" />
               <option name="questionId" value="264" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[416]分割等和子集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[416]分割等和子集.java" />
+              <option name="questionId" value="416" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -88,6 +168,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[690]员工的重要性.java" />
               <option name="questionId" value="690" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[72]编辑距离.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[72]编辑距离.java" />
+              <option name="questionId" value="72" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[752]打开转盘锁.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[752]打开转盘锁.java" />
+              <option name="questionId" value="753" />
             </LeetcodeEditor>
           </value>
         </entry>
