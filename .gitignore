@@ -1,4 +1,6 @@
 .idea
 .gitignore
 out
+src/leetcode/editor/cn/all.json
+src/leetcode/editor/cn/translation.json
 leetcode.iml
